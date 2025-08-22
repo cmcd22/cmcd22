@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, SQL, R, Java, HTML/JS 
+**Languages:** Python, SQL, R, Java, HTML/JS  
 **Data Engineering:** AWS (S3, Redshift, Lambda), Spark, Pandas  
-**Databases:** PostgreSQL, MySQL 
+**Databases:** PostgreSQL, MySQL  
 **Data Science/ML:** scikit-learn, GLMs, regression models  
 **Visualization:** Tableau, ggplot2, Matplotlib, Shiny  
 **Other:** Git/GitHub, Docker, Bash  
