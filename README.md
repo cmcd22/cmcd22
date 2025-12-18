@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🧠 Passionate about all things data, looking to break into the industry
 - 🎓 Bachelor's Degree in Computer Science, currently studying for a **Postgrad Diploma in Applied Data Science**
-- 🔭 Currently working on: `University assignments utilising R/Shiny`  
+- 🔭 Currently working on: `Personal Data Engineering projects to demonstrate skills`  
 - 🌱 Personal Development Learning: **ETL processes, data warehousing**  
 - 🎮 Hobbies: Keeping fit, discovering new music, and relaxing with a gaming controller when time permits  
 - 🌍 Currently based in New Zealand, looking to relocate abroad
